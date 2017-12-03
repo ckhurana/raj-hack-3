@@ -1,7 +1,7 @@
 ### Rajasthan Hackathon v3
-## Project
-## Facility management via Facebook
-#### Submission by BitCheese
+#### Project
+#### Facility management via Facebook
+### Submission by BitCheese
 
 ### Introduction
 This project implements a Facility Management System using facebook and deals with various use cases with the help of Facebook API.
@@ -42,8 +42,7 @@ This project implements a Facility Management System using facebook and deals wi
 - Any unauthorized access or fail cases are reported by the program in the console.
 
 ### Software Requirements
-JAVA 1.8 - primary programming language
-MySQL - database
-Facebook Graph API - for facebook integration
-RestFB - Java implementation of the Facebook API
-
+- JAVA 1.8 - primary programming language
+- MySQL - database
+- Facebook Graph API - for facebook integration
+- RestFB - Java implementation of the Facebook API
